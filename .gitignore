@@ -54,5 +54,10 @@ instruction.html
 progress.html
 
 # Внутренние файлы проекта
-.claude/
 product-description-generator-project.md
+
+# Локальные настройки Claude Code (не публиковать)
+.claude/settings.local.json
+
+# Скиллы Claude Code — ПУБЛИКУЮТСЯ (не добавлять сюда .claude/skills/)
+
